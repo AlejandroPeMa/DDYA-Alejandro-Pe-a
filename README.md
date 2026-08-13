@@ -1,1 +1,2 @@
-# Ejercicio-DDYA-1-Alejandro-Pe-a
+Semana 3 Extasys Code
+Alejandro Peña Martinez
