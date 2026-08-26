@@ -1,5 +1,5 @@
 
-DDYA - Alejandro Peña
+DDYA - Alejandro Peña Martinez
 
 Repositorio académico de la asignatura Desarrollo y Diseño de Algoritmos.
 
