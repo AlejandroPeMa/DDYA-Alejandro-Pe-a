@@ -20,25 +20,12 @@ Repositorio académico de la asignatura **Diseño de Datos y Algoritmos (DDYA)**
 
 ## Estructura del repositorio
 
-```
-DDYA-Alejandro-Pe-a/
-├── Semana 2/
-│   └── Ejercicio DDYA Alejandro Peña Martinez.py
-├── Semana 3/
-│   └── Lab_Semana3_ExtasysCode.ipynb
-├── Semana 4/
-│   ├── Lab_Semana4_ExtasysCode.ipynb
-│   └── Presentación del laboratorio
-├── Semana 7/
-│   ├── Laboratorio de estructuras lineales
-│   └── Material complementario
-├── Semana 8/
-│   ├── Arboles-binarios (Extasys code).ipynb
-│   └── Presentación árboles binarios
-├── dev-pr-dynamic/
-│   └── app-suscriptores.ipynb
-└── README.md
-```
+- 📁 [Semana 2](./Semana%202)
+- 📁 [Semana 3](./Semana%203)
+- 📁 [Semana 4](./Semana%204)
+- 📁 [Semana 7](./Semana%207)
+- 📁 [Semana 8](./Semana%208)
+- 📁 [dev-pr-dynamic](./dev-pr-dynamic)
 
 ---
 
